@@ -1,0 +1,9 @@
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\bin\Debug\PinPongGame.exe.config
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\bin\Debug\PinPongGame.exe
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\bin\Debug\PinPongGame.pdb
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\obj\Debug\PinPongGame.csprojAssemblyReference.cache
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\obj\Debug\PinPongGame.Form1.resources
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\obj\Debug\PinPongGame.Properties.Resources.resources
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\obj\Debug\PinPongGame.csproj.GenerateResource.cache
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\obj\Debug\PinPongGame.exe
+C:\Users\YunusEmre\source\repos\PinPongGame\PinPongGame\obj\Debug\PinPongGame.pdb
